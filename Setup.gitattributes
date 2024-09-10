@@ -1,4 +1,1 @@
-```sql
 *.sql linguist-language=PostgreSQL
-
-Add .gitattributes for PostgreSQL syntax highlighting
