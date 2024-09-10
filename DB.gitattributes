@@ -9,3 +9,5 @@ WITH
 	CONNECTION LIMIT = -1;
 
 \l customer_db
+
+Add .gitattributes for PostgreSQL syntax highlighting
