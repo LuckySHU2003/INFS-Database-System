@@ -1,0 +1,4 @@
+*.sql linguist-language=PostgreSQL
+
+```sql
+CREATE DATABASE customer_db
